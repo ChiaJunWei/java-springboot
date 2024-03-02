@@ -1,1 +1,1 @@
-Simple Api java spring application
+Simple CRUD API using java spring boot
